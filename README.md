@@ -50,13 +50,14 @@ I value **clarity, discipline, and consistency** in both code and approach.
 ## 📬 Contact
 
 <p align="center">
-  <a href="www.linkedin.com/in/priyansu-tripathi-5758492a0">
+  <a href="https://www.linkedin.com/in/priyansu-tripathi-5758492a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:priyansutripathiofficial20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
+
 
 ---
 
